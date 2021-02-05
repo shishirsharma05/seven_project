@@ -1,0 +1,55 @@
+.header{
+	background-color: red;
+	border: 5px solid skyblue;
+	min-height: 100px;
+}
+.wrapper{
+	border: 5px solid teal;
+	overflow: hidden;
+}
+.blog{
+	background-color: green;
+	min-height: 200px;
+	width: 70%;
+	float: left;
+}
+
+
+.contact{
+	background-color: skyblue;
+	min-height: 200px;
+	width: 30%;
+	float: left;
+	
+}
+
+
+
+
+.content{
+	border: 5px solid skyblue;
+	overflow: hidden;
+}
+.box{
+	min-height: 180px;
+	float: left;
+}
+.box1{
+	background-color: gray;
+	width: 20%;
+}
+.box2{
+	background-color: blue;
+	width: 40%;
+	color: white;
+}
+.box3{
+	background-color: pink;
+	width: 40%;
+}
+.fotter{
+	border: 5px solid blue;
+	background-color: black;
+	min-height: 100px;
+	color: white;
+}
